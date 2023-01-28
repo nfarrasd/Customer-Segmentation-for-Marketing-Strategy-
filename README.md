@@ -2,28 +2,28 @@
 This is a Kaggle side-project that was done in June, 2022 as a mean to implement my knowledge about one
 unsupervised ML method, which is Clustering, or more precisely Agglomerative Clustering (one of the Hierarchical Clustering type).
 
-# Business Understanding
-## Background
+## Business Understanding
+### Background
 Customer Personality Analysis is a detailed analysis of a company’s ideal customers. It helps a business 
 to better understand its customers and makes it easier for them to modify products according to the specific 
 needs, behaviors and concerns of different types of customers. For example, instead of spending money to 
 market a new product to every customer in the company’s database, a company can analyze which customer 
 segment is most likely to buy the product and then market the product only on that particular segment.
 
-## Problem
+### Problem
 What can we do to **minimize** the marketing **cost** and **maximize** the **profit**?
 
-## Analytical Approach
+### Analytical Approach
 1. Analyze the **characteristics** of each product’ **potential customers** to build focused business and 
 marketing strategies to minimize cost and maximize profit.
 2. Find the **most used platform** by the potential customers, then **upgrade** that particular **platform** to attract 
 more customers with (but not limited to) the same characteristics.
 3. Examine the **discount** and **campaign performance** to build better strategies in the future.
 
-# Dataset
+## Dataset
 The dataset used in this project are from **Kaggle public dataset** which can be found here: [Customer Personality Analysis](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis)
 
-## Attributes
+### Attributes
 **People**
 *   ID: Customer's unique identifier
 *   Year_Birth: Customer's birth year
@@ -59,15 +59,15 @@ The dataset used in this project are from **Kaggle public dataset** which can be
 *   NumWebVisitsMonth: Number of visits to company’s website in the last month
 *   NumStorePurchases: Number of purchases made directly in stores
 
-# Result
-## Summary
+## Result
+### Summary
 1. **Target Customer Criteria**: Mostly **early 40s – late 60s** who is at least an 
 **Undergraduate**, has **high-income**, and **do not** have any child at home.
 2. **Platform**: The **most popular** platform for potential customers are **store** 
 (98.56%), **web** (93.83%), and **catalogue** (84.88%), respectively.
 3. **Discount & Promo**: The participation rate is **very low**
 
-## Recommendations
+### Recommendations
 1. Further sales and marketing **strategies** should be **focused** towards **Undergraduates** with **high-income**, and 
 **do not** have any kid (and teens, if possible) at home.
 3. There needs to be a **promo** to **attract** customers, especially the **potential customers**, so the amount 
