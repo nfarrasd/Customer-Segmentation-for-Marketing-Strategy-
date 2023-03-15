@@ -1,4 +1,4 @@
-# Customer Segmentation
+# Hierarchical Clustering on Customer Segmentation
 This is a Kaggle side-project that was done in June, 2022 as a mean to implement my knowledge about one
 unsupervised ML method, which is Clustering, or more precisely Agglomerative Clustering (one of the Hierarchical Clustering type).
 
