@@ -1,6 +1,5 @@
 # Hierarchical Clustering on Customer Segmentation
-This is a Kaggle side-project that was done in June, 2022 as a mean to implement my knowledge about one
-unsupervised ML method, which is Clustering, or more precisely Agglomerative Clustering (one of the Hierarchical Clustering type).
+This is a Kaggle side-project that was by Moch Nabil Farras Dhiya (me) as a mean to implement my data analytics skills on marketing, which is RFM analysis, and also several clustering techniques, including K-Means and Hierarchical Agglomerative Clustering, which are evaluated based on Davies–Bouldin index, Silhouette score, and Calinski-Harabasz index to determine the best clustering method.
 
 ## Business Understanding
 ### Background
@@ -14,11 +13,10 @@ segment is most likely to buy the product and then market the product only on th
 What can we do to **minimize** the marketing **cost** and **maximize** the **profit**?
 
 ### Analytical Approach
-1. Analyze the **characteristics** of each product’ **potential customers** to build focused business and 
-marketing strategies to minimize cost and maximize profit.
-2. Find the **most used platform** by the potential customers, then **upgrade** that particular **platform** to attract 
-more customers with (but not limited to) the same characteristics.
-3. Examine the **discount** and **campaign performance** to build better strategies in the future.
+1. Identify potential users characteristics for each products (wines, fruits, fish  meat, sweets, and gold) to target specific customers using multi-stage RFM analysis and clustering techniques (K-Means, Agglomerative Clustering).
+2. Find the **most used channel** by the potential customers, then **upgrade** that particular **platform** to attract more customers with (but not limited to) the same characteristics.
+3. Analyze past **discounts** and **campaign performances** to build better marketing strategies in the future.
+4. Inspect users behavior regarding past complaints and reports.
 
 ## Dataset
 The dataset used in this project are from **Kaggle public dataset** which can be found here: [Customer Personality Analysis](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis)
