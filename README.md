@@ -1,4 +1,4 @@
-# Hierarchical Clustering on Customer Segmentation
+# Customer Segmentation for Marketing Strategy 
 This is a Kaggle side-project that was by Moch Nabil Farras Dhiya (me) as a mean to implement my data analytics skills on marketing, which is RFM analysis, and also several clustering techniques, including K-Means and Hierarchical Agglomerative Clustering, which are evaluated based on Davies–Bouldin index, Silhouette score, and Calinski-Harabasz index to determine the best clustering method.
 
 ## Business Understanding
