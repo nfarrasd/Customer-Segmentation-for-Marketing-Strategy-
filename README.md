@@ -57,20 +57,6 @@ The dataset used in this project are from **Kaggle public dataset** which can be
 *   NumWebVisitsMonth: Number of visits to company’s website in the last month
 *   NumStorePurchases: Number of purchases made directly in stores
 
-## Result (yet to be updated)
-### Summary
-1. **Target Customer Criteria**: Mostly **early 40s – late 60s** who is at least an 
-**Undergraduate**, has **high-income**, and **do not** have any child at home.
-2. **Platform**: The **most popular** platform for potential customers are **store** 
-(98.56%), **web** (93.83%), and **catalogue** (84.88%), respectively.
-3. **Discount & Promo**: The participation rate is **very low**
-
-### Recommendations
-1. Further sales and marketing **strategies** should be **focused** towards **Undergraduates** with **high-income**, and 
-**do not** have any kid (and teens, if possible) at home.
-3. There needs to be a **promo** to **attract** customers, especially the **potential customers**, so the amount 
-of sold products will increase. 
-3. Further **investigation** are needed to find the reason why the **discount** and **campaign participation 
-rate** is **very low**. Maybe because it is **ill-timed** or the content is **not engaging**?
-4. The company should **upgrade** their **website**, as many potential customers are buying products 
-through website, and also as a mean to attract another customer segments
+## Summary & Recommendations
+1. Customers: Can be seen at the bottom of the file "Customer_Segmentation_Final_Customer.ipynb"
+2. Discount, Media, and Campaign: Can be seen at the bottom of the file "Customer_Segmentation_Channel.ipynb"
