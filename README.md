@@ -57,7 +57,7 @@ The dataset used in this project are from **Kaggle public dataset** which can be
 *   NumWebVisitsMonth: Number of visits to company’s website in the last month
 *   NumStorePurchases: Number of purchases made directly in stores
 
-## Result
+## Result (yet to be updated)
 ### Summary
 1. **Target Customer Criteria**: Mostly **early 40s – late 60s** who is at least an 
 **Undergraduate**, has **high-income**, and **do not** have any child at home.
