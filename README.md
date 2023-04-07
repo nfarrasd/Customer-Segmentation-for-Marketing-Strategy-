@@ -1,6 +1,8 @@
 # Customer Segmentation for Marketing Strategy 
 This is a Kaggle side-project that was made by Moch Nabil Farras Dhiya (me) as a mean to implement my data analytics skills on marketing, which is RFM analysis, and also several clustering techniques, including K-Means and Hierarchical Agglomerative Clustering, which are evaluated based on Davies–Bouldin index, Silhouette score, and Calinski-Harabasz index to determine the best clustering method.
 
+**Note**: In case you can not see the .ipynb file, please go [here](https://drive.google.com/drive/folders/1BV87Z_5EaKpuXeaWaZy27snZ0QZOYVyI?usp=sharing).
+
 ## Business Understanding
 ### Background
 Customer Personality Analysis is a detailed analysis of a company’s ideal customers. It helps a business 
